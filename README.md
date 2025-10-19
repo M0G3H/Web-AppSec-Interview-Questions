@@ -1,3 +1,6 @@
+# 
+Web-AppSec-Interview-Questions  [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme) 
+This collection features challenging web application security questions originally shared through my social media channels. These questions are designed to test your knowledge of web application hacking concepts at an advanced level.
 
 <details>
 <summary><b>1. What is the difference between Web Cache Deception and Web Cache Poisoning?</b></summary>
